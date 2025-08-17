@@ -1,0 +1,15 @@
+{
+  "name": "ban-server",
+  "version": "1.0.0",
+  "main": "RemoteBan.js",
+  "scripts": {
+    "start": "node RemoteBan.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "node-fetch": "^3.3.2"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
